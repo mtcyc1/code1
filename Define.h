@@ -7,11 +7,10 @@
 //
 /*
  微信支付参数：
- AppID：wx71ee9539ea8a79aa
- AppSecret：9d5b7c975a5ac253d622bb7fdb9a7148
+注意 ：参数需要你自己提供
  */
-#define kWXAppID @"wx71ee9539ea8a79aa"
-#define kWXAppSecret @"9d5b7c975a5ac253d622bb7fdb9a7148"
+#define kWXAppID @"wx71ee9539ea8a79ab"
+#define kWXAppSecret @"9d5b7c975a5ac253d622bb7fdb9a714d"
 
 /**
  * 微信开放平台和商户约定的支付密钥
